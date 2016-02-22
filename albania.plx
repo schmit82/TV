@@ -5,6 +5,6 @@ title=[COLOR green]ALBANIA[/COLOR]
 #
 type=video
 name=A1 Report
-thumb=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdMc2wM2AOiAIFx_n9IuCeMBAnUkrKY99J8qC9f2NiQkVqs8dA
+thumb=https://lh3.googleusercontent.com/Hx2Rn-V4oLrSLAaUtVc37gSe1lWpCkoaATQTKRj4H5smq1bqHxJuErlD4JzkIgV4BQ
 URL=http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
 #
