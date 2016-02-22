@@ -5,6 +5,6 @@ title=[COLOR green]ALBANIA[/COLOR]
 #
 type=video
 name=A1 Report
-thumb=http://cdn1.sempretops.com/wp-content/uploads/cielo-1.jpg
+thumb=https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTdMc2wM2AOiAIFx_n9IuCeMBAnUkrKY99J8qC9f2NiQkVqs8dA
 URL=http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
 #
