@@ -5,16 +5,16 @@ title=[COLOR blue]All in One IPTV[/COLOR] [COLOR red]TRC4[/COLOR]
 
 #
 type=playlist
-thumb=http://41.media.tumblr.com/tumblr_m90uvzGVpK1rbv2ubo1_1280.jpg
+thumb=http://img.freeflagicons.com/thumb/heart_icon/albania/albania_640.png
 name=[COLOR yellow][B][I]LIVE SPORTS[/I][/B][/COLOR]
-URL=
+URL=https://raw.githubusercontent.com/TRC4/TV/master/albania.plx
 
-#https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/live.plx
+#https://raw.githubusercontent.com/TRC4/TV/master/tvdirect.plx
 #
 type=playlist
 thumb=http://www.ultrahd4kwallpaper.in/wp-content/uploads/2014/09/argentina-flag-hd-pictures-2.jpg
-name=[COLOR yellow][B][I]ARGENTINA[/I][/B][/COLOR]
-URL=
+name=[COLOR yellow][B][I]ALBANIA[/I][/B][/COLOR]
+URL=https://raw.githubusercontent.com/TRC4/TV/master/albania.plx
 #
 type=playlist
 thumb=http://memeburn.com/wp-content/uploads/brazil-e1328192831309.jpg
@@ -65,7 +65,7 @@ URL=https://dl.dropboxusercontent.com/s/nmvqm77fwbv34id/motorsports.plx?dl=0
 #https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/motorsports.plx
 #
 type=playlist
-thumb=https://tiestoclublife.files.wordpress.com/2014/09/dj_tiesto_club_life_img389.jpg
+thumb=http://s29.postimg.org/uzw1by7wn/TRC4.jpg
 name=[COLOR yellow][B][I]MUSIC[/I][/B][/COLOR]
 URL=https://dl.dropboxusercontent.com/s/v4ofc7d1wjv96xl/music.plx?dl=0
 
