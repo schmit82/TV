@@ -68,3 +68,8 @@ name=Jug TV
 thumb=http://www.mp3-muzik.com/images/tvlogo/jug.png
 URL=http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
 #
+type=video
+name=Arta
+thumb=https://2.bp.blogspot.com/-6Woom1NDLQc/UOGDQLyqqII/AAAAAAAACsA/DB5kVDvsTJE/s1600/Arta%2BKoha%2BTV.png
+URL=http://84.22.48.253:8080/artanews/test.m3u8
+#
