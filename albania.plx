@@ -27,7 +27,6 @@ type=video
 name=TV Apollon
 thumb=http://www.albotv.net/tv/img/tv_apollon.png
 URL=http://95.107.200.140:554/live/rtmp.stream/playlist.m3u8
-
 #
 type=video
 name=A1 Report
@@ -58,6 +57,11 @@ type=video
 name=TVSH
 thumb=http://vignette2.wikia.nocookie.net/logopedia/images/4/4d/TVSHA.jpg
 URL=http://iphone-streaming.ustream.tv/uhls/18947414/streams/live/iphone/playlist.m3u8
+#
+type=video
+name=Abc News
+thumb=http://open.data.al/uploadserise/foto/1310043813-abcnews.jpg
+URL=http://xabcalbaniax.api.channel.livestream.com/3.0/playlist.m3u8
 #
 type=video
 name=Vizion Plus
