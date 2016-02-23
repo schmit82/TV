@@ -5,6 +5,6 @@ title=[COLOR green]ALBANIA[/COLOR]
 #
 type=video
 name=A1 Report
-thumb=https://2.bp.blogspot.com/-ftUdzEqceKM/VfiJAkDfC7I/AAAAAAAAATo/85uryuqbp1o/s1600/mzl.vprgdjyd.png
+thumb=http://tv.dance.al/tvlogo/a1report.png
 URL=rtmp://66.55.93.204/livepkgr/stream?adbe-live-event=report
 #
