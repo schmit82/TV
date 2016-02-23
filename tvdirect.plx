@@ -2,7 +2,7 @@ version=1
 background=http://s16.postimg.org/aye5d78lx/TRC4.jpg
 logo=http://s16.postimg.org/aye5d78lx/TRC4.jpg
 title=[COLOR blue]All in One IPTV TRC4[/COLOR] [COLOR red]TRC4[/COLOR]
-#
+
 type=playlist
 thumb=http://img.freeflagicons.com/thumb/heart_icon/albania/albania_640.png
 name=[COLOR red][B]ALBANIA[/B][/COLOR]
@@ -45,7 +45,7 @@ URL=https://raw.githubusercontent.com/TRC4/dl/master/kids.plx
 type=playlist
 thumb=http://images6.fanpop.com/image/photos/35200000/Mexican-Flag-mexico-35290035-1200-801.jpg
 name=[COLOR yellow][B]MEXICO[/B][/COLOR]
-URL=#https://raw.githubusercontent.com/TRC4/TV/master/mexico.plx
+URL=https://raw.githubusercontent.com/TRC4/TV/master/mexico.plx
 #https://raw.githubusercontent.com/TRC4/TV/master/mexico.plx
 
 type=playlist
@@ -61,7 +61,7 @@ name=[COLOR yellow][B]MUSIC[/B][/COLOR]
 URL=https://raw.githubusercontent.com/TRC4/dl/master/music.plx
 
 #https://raw.githubusercontent.com/TRC4/TV/master/music.plx
-#
+
 type=playlist
 thumb=http://orig01.deviantart.net/e8c8/f/2009/171/d/3/realistic_philippine_flag_by_shintalz.jpg
 name=[COLOR yellow][B]PHILIPPINES[/B][/COLOR]
