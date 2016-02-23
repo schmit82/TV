@@ -55,7 +55,7 @@ URL=http://fms.zulu.mk:554/zulu/alsat_2/playlist.m3u8
 #
 type=video
 name=Tribuna
-thumb=http://www.imalbania.com/kosova/wp-content/uploads/2015/05/1555406_1016670298344995_8126625997706652488_n.jpg
+thumb=http://84.22.48.253:8080/tribuna/logo.jpg
 URL=http://84.22.48.253:89/tribuna/mono.m3u8
 #
 type=video
