@@ -1,12 +1,12 @@
 version=1
 background=http://s16.postimg.org/aye5d78lx/TRC4.jpg
 logo=http://s16.postimg.org/aye5d78lx/TRC4.jpg
-title=[COLOR blue]All in One IPTV[/COLOR] [COLOR red]TRC4[/COLOR]
+title=[COLOR blue]All in One IPTV TRC4[/COLOR] [COLOR red]TRC4[/COLOR]
 
 #
 type=playlist
 thumb=http://img.freeflagicons.com/thumb/heart_icon/albania/albania_640.png
-name=[COLOR yellow][B][I]LIVE SPORTS[/I][/B][/COLOR]
+name=[COLOR red]LIVE SPORTS[/COLOR]
 URL=https://raw.githubusercontent.com/TRC4/TV/master/albania.plx
 
 #https://raw.githubusercontent.com/TRC4/TV/master/tvdirect.plx
