@@ -4,7 +4,7 @@ logo=https://openclipart.org/download/218937/USA-Flag-Typography.svg
 title=[COLOR green]USA[/COLOR]
 #
 type=video
-name=[COLOR yellow][B][I]Per Disa Kanale Duhet te Beni Update[/I][/B][/COLOR]
+name=[COLOR yellow][B]Per Disa Kanale Duhet te Beni Update[/B][/COLOR]
 thumb=https://openclipart.org/download/218937/USA-Flag-Typography.svg
 URL=https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/usa.plx
 #
@@ -17,7 +17,6 @@ type=video
 name=5 USA
 thumb=http://static.itnproductions.co.uk/itn/2013/02/5USA_logo_2011-300x115.jpg
 URL=
-
 #
 type=video
 name=A & E
@@ -43,7 +42,6 @@ type=video
 name=ALIENS AND UFO’S
 thumb=http://static.filmon.com/assets/channels/3548/big_logo.png
 URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Faliens-and-ufos%26title%3dAliens%2band%2bUFOs%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Faliens-and-ufos%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dAliens%2band%2bUFOs%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F3548%252Fbig_logo.png&amp;mode=1
-
 #
 type=video
 name=AMC
@@ -69,7 +67,6 @@ type=video
 name=BET
 thumb=http://channelpear.com/images/media/46.jpg
 URL=
-
 #
 type=video
 name=BRAVO
@@ -95,7 +92,6 @@ type=video
 name=CBS NEWS
 thumb=http://upload.wikimedia.org/wikipedia/commons/5/52/CBS_News_logo.png
 #URL=rtmp://cp56371.live.edgefcs.net:443/live?ovpfv=1.1/ playpath=CBSnews2_live_800@50979
-
 #
 type=video
 name=CNBC
@@ -106,7 +102,6 @@ type=video
 name=CNN
 thumb=https://pbs.twimg.com/profile_images/508960761826131968/LnvhR8ED.png
 URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DCNN%5B%2FCOLOR%5D+&amp;url=http%3A%2F%2Fedge1.everyon.tv%2Fetv1sb%2Fphd16%2Fchunklist_w1519714347.m3u8&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Flogo%2Ftv%2Fcc%2Fcnn_espanol.png+&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
-
 #
 type=video
 name=COMEDY CENTRAL
@@ -117,7 +112,6 @@ type=video
 name=COMEDY CENTRAL
 thumb=http://www.chud.com/articles/content_images/17/ComedyCentralLogo.jpg
 URL=
-
 #
 type=video
 name=CW 
@@ -183,7 +177,6 @@ type=video
 name=FOX MOVIES
 thumb=http://livetvscreen.com/wp-content/uploads/2012/06/Fox-Movies-Online.jpg
 URL=
-
 #
 type=video
 name=FX
@@ -209,7 +202,6 @@ type=video
 name=HBO
 thumb=http://tube.hk/images/tv_cache/c/200x200_38hbo_hd.jpg
 URL=plugin://plugin.video.phstreams/?name=%5BCOLOR+yellow%5DHBO%5B%2FCOLOR%5D+&amp;url=rtmp%3A%2F%2Fwww1.iguide.to%2Figuide+playpath%3D0bf02qe6msgtu4s+swfUrl%3Dhttp%3A%2F%2Fwww.iguide.to%2Fplayer%2Fsecure_player_iguide_token.swf+pageUrl%3Dhttp%3A%2F%2Fwww.iguide.to%2Fview%2F1%2Fwatch-live-HBO-channel-for-free+flashver%3DWIN%5C2019%2C0%2C0%2C185+live%3D1+token%3D%23ed%25h0%23w18623jsda6523lDGD&amp;audio=0&amp;image=http%3A%2F%2Fwww.lyngsat-logo.com%2Flogo%2Ftv%2Fhh%2Fhbo.png+&amp;fanart=http%3A%2F%2Fs20.postimg.org%2Frgj1xthbh%2FWoody_Icon.jpg&amp;playable=false&amp;tvshow=0&amp;content=0&amp;action=resolveUrl
-
 #
 type=video
 name=HBO SIGNATURE
@@ -295,7 +287,6 @@ type=video
 name=SLICE
 thumb=http://images.wookmark.com/182773_589_slice.jpg
 URL=
-
 #
 type=video
 name=SPIKE TV 
@@ -311,7 +302,6 @@ type=video
 name=SYFY
 thumb=http://ib1.huluim.com/company_key_art/232?size=1600x600&region=US
 URL=http://iphone-streaming.ustream.tv/ustreamVideo/18638341/streams/live/playlist.m3u8
-
 #
 type=video
 name=TBS
@@ -337,7 +327,6 @@ type=video
 name=TRU TV
 thumb=http://cdn.embed.ly/providers/logos/trutv.png
 URL=
-
 #
 type=video
 name=TV LAND
@@ -353,7 +342,6 @@ type=video
 name=WARNER
 thumb=https://pmcdeadline2.files.wordpress.com/2012/10/warnerbros_logo__121022172344.jpg
 URL=
-
 #
 type=video
 name=WEATHER NATION
@@ -369,8 +357,6 @@ type=video
 name=WORLD FASHION TV
 thumb=http://andyfiordmodels.com/assets/images/pages/world-fashion-logo.png
 URL=http://btv-net.mediacdn.ru/TVB7/wfhdeu/playlist.m3u8
-
-
 #
 type=video
 name=BRAZZERS
@@ -426,18 +412,4 @@ type=video
 name=BABESTATION 2
 thumb=http://www.ultimatetvguide.com/Images_files/babestation300x250.gif
 URL=http://178.33.126.213:1935/cellcast/encoder32/.m3u8
-
-
-
-
-#
-type=video
-name=
-thumb=
-URL=
-#
-type=video
-name=
-thumb=
-URL=
 #
