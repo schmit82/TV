@@ -24,6 +24,11 @@ thumb=http://freeiptv.weightlosstoday.org/wp-content/uploads/2015/07/tv-opoja.pn
 URL=http://ip.opoja.tv/live//tvopoja/playlist.m3u8
 #
 type=video
+name=Televizioni TVR
+thumb=http://live-tv.me/wp-content/uploads/2014/08/Televizioni-TVR.gif
+URL=rtmp://62.141.45.234/live/shqiptv6//livestream
+#
+type=video
 name=Diaspora TV
 thumb=http://www.share-world.nl/wp-content/uploads/2015/06/DSL_000002-300x168.png
 URL=http://xdiasporalivex.api.channel.livestream.com/3.0/playlist.m3u8
