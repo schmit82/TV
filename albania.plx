@@ -48,3 +48,8 @@ name=KTV
 thumb=http://www.frocus.net/images/logotv/original/KTV-Kohavision.jpg
 URL=http://84.22.33.25/mpeg2_ktvsd/mono.m3u8
 #
+type=video
+name=ERA TV
+thumb=http://www.predavatel.com/mk/1/skopje_images/sko_tvera.gif
+URL=http://fms.zulu.mk:554/zulu/era_2/playlist.m3u8
+#
