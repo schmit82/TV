@@ -17,3 +17,8 @@ type=video
 name=Top Channel
 thumb=https://upload.wikimedia.org/wikipedia/commons/9/96/Top_channel_Logo.png
 URL=http://stream.ssh101.com:1935/live/shqip24tv/albparajsatop222/playlist.m3u8
+#
+type=video
+name=RTK Live
+thumb=http://www.hulkusc.com/wp-content/uploads/2012/12/rtk4-300x173.jpg
+URL=http://wowza.rtkit.com:1935/live/livestream/playlist.m3u8
