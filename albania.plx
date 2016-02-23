@@ -118,3 +118,8 @@ name=Arta
 thumb=https://2.bp.blogspot.com/-6Woom1NDLQc/UOGDQLyqqII/AAAAAAAACsA/DB5kVDvsTJE/s1600/Arta%2BKoha%2BTV.png
 URL=http://84.22.48.253:8080/artanews/test.m3u8
 #
+type=video
+name=Junior TV
+thumb=https://1.bp.blogspot.com/-wOBqKdS-yIw/U0wURZNovZI/AAAAAAAAD-c/jPi-QG1wURo/s1600/junior.png
+URL=http://cp.dmbshare.net:8000/live/Anders/Anders/3514.ts
+#
