@@ -45,8 +45,9 @@ URL=https://raw.githubusercontent.com/TRC4/dl/master/kids.plx
 type=playlist
 thumb=http://images6.fanpop.com/image/photos/35200000/Mexican-Flag-mexico-35290035-1200-801.jpg
 name=[COLOR yellow][B]MEXICO[/B][/COLOR]
-URL=#https://raw.githubusercontent.com/TRC4/TV/master/apain.plx
-#
+URL=#https://raw.githubusercontent.com/TRC4/TV/master/mexico.plx
+#https://raw.githubusercontent.com/TRC4/TV/master/mexico.plx
+
 type=playlist
 thumb=http://www.kawasaki.ie/wp-content/collection/2015-kawasaki-zzr1400/2015-zzr-1400-8.jpg
 name=[COLOR yellow][B]MOTOR SPORTS[/B][/COLOR]
