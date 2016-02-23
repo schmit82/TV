@@ -6,20 +6,15 @@ title=[COLOR blue]All in One IPTV TRC4[/COLOR] [COLOR red]TRC4[/COLOR]
 #
 type=playlist
 thumb=http://img.freeflagicons.com/thumb/heart_icon/albania/albania_640.png
-name=[COLOR red]LIVE SPORTS[/COLOR]
+name=[COLOR red]ALBANIA[/COLOR]
 URL=https://raw.githubusercontent.com/TRC4/TV/master/albania.plx
 
 #https://raw.githubusercontent.com/TRC4/TV/master/tvdirect.plx
 #
 type=playlist
-thumb=http://www.ultrahd4kwallpaper.in/wp-content/uploads/2014/09/argentina-flag-hd-pictures-2.jpg
-name=[COLOR yellow][B][I]ALBANIA[/I][/B][/COLOR]
-URL=https://raw.githubusercontent.com/TRC4/TV/master/albania.plx
-#
-type=playlist
 thumb=http://memeburn.com/wp-content/uploads/brazil-e1328192831309.jpg
 name=[COLOR yellow][B][I]BRAZIL[/I][/B][/COLOR]
-URL=https://dl.dropboxusercontent.com/s/cx2wdr8dz24a38g/brazil.plx?dl=0
+URL=https://raw.githubusercontent.com/TRC4/TV/master/brazil.plx
 
 #https://raw.githubusercontent.com/joelgrace1/repository.livetv/master/tv.direto/brazil.plx
 #
