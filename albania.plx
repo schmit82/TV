@@ -24,6 +24,12 @@ thumb=http://oklivetv.com/wp-content/uploads/2015/10/back.png
 URL=rtmp://62.141.45.234/live/shqiptv5/livestream
 #
 type=video
+name=TV Apollon
+thumb=http://www.albotv.net/tv/img/tv_apollon.png
+URL=http://95.107.200.140:554/live/rtmp.stream/playlist.m3u8
+
+#
+type=video
 name=A1 Report
 thumb=https://2.bp.blogspot.com/-ftUdzEqceKM/VfiJAkDfC7I/AAAAAAAAATo/85uryuqbp1o/s1600/mzl.vprgdjyd.png
 URL=http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
