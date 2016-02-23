@@ -6,7 +6,7 @@ title=[COLOR blue]All in One IPTV TRC4[/COLOR] [COLOR red]TRC4[/COLOR]
 #
 type=playlist
 thumb=http://img.freeflagicons.com/thumb/heart_icon/albania/albania_640.png
-name=[COLOR red]ALBANIA[/COLOR]
+name=[COLOR red][B]ALBANIA[/B][/COLOR]
 URL=https://raw.githubusercontent.com/TRC4/TV/master/albania.plx
 
 #https://raw.githubusercontent.com/TRC4/TV/master/tvdirect.plx
