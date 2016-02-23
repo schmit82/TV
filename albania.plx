@@ -14,6 +14,11 @@ thumb=https://3.bp.blogspot.com/-6UrB6gPKcbw/VfiihqIEbdI/AAAAAAAAAVI/qYjiI5ZT1Aw
 URL=http://str103.setplex.net:1935/228/stv_folk/playlist.m3u8
 #
 type=video
+name=TV Opoja
+thumb=http://freeiptv.weightlosstoday.org/wp-content/uploads/2015/07/tv-opoja.png
+URL=http://ip.opoja.tv/live//tvopoja/playlist.m3u8
+#
+type=video
 name=A1 Report
 thumb=https://2.bp.blogspot.com/-ftUdzEqceKM/VfiJAkDfC7I/AAAAAAAAATo/85uryuqbp1o/s1600/mzl.vprgdjyd.png
 URL=http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
