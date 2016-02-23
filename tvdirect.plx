@@ -91,20 +91,20 @@ URL=https://raw.githubusercontent.com/TRC4/dl/master/spain.plx
 #
 type=playlist
 thumb=http://www.dream-box.tv/_Media/Images/ProjectBlock/Works/Logos/SportsZone/Big5.jpg
-name=[COLOR yellow][B][I]SPORTS[/I][/B][/COLOR]
+name=[COLOR yellow][B]SPORTS[/B][/COLOR]
 URL=https://raw.githubusercontent.com/TRC4/dl/master/sports.plx
 
 #https://raw.githubusercontent.com/TRC4/TV/master/sports.plx
 #
 type=playlist
 thumb=http://ukineurovision.com/wp-content/uploads/2015/03/Flag_of_the_United_Kingdom_and_Ireland2.png
-name=[COLOR yellow][B]UK/IRELAND[/B][/COLOR]
+name=[COLOR yellow][B]UK and IRELAND[/B][/COLOR]
 URL=https://raw.githubusercontent.com/TRC4/dl/master/ireland.plx
 
 #https://raw.githubusercontent.com/TRC4/TV/master/ireland.plx
 #
 type=playlist
-thumb=http://www.kuhnglobal.net/wp-content/uploads/2013/01/2009-usa-flag-graphics.jpg
+thumb=http://download.4-designer.com/files/20130905/American-flag-design-vector-material-04-49784.jpg
 name=[COLOR red][B]USA[/B][/COLOR]
 URL=https://raw.githubusercontent.com/TRC4/dl/master/usa.plx
 
