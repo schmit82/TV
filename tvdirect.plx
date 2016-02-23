@@ -2,13 +2,14 @@ version=1
 background=http://s16.postimg.org/aye5d78lx/TRC4.jpg
 logo=http://s16.postimg.org/aye5d78lx/TRC4.jpg
 title=[COLOR blue]All in One IPTV TRC4[/COLOR] [COLOR red]TRC4[/COLOR]
-
+#
 type=playlist
 thumb=http://img.freeflagicons.com/thumb/heart_icon/albania/albania_640.png
 name=[COLOR red][B]ALBANIA[/B][/COLOR]
 URL=https://raw.githubusercontent.com/TRC4/TV/master/albania.plx
+
 #https://raw.githubusercontent.com/TRC4/TV/master/tvdirect.plx
-#
+
 type=playlist
 thumb=http://onedayinitaly.com/wp-content/uploads/2014/05/italian-flag.jpg
 name=[COLOR yellow][B]ITALY[/B][/COLOR]
