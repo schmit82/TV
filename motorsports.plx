@@ -31,17 +31,17 @@ URL=http://motorsport.hopto.org:8080/
 #
 type=video
 name=EUROSPORT (RUS)
-thumb=http://www.telezones.com/wp-content/uploads/2015/03/Eurosport-HD-Live-Telezones1.png
+thumb=http://theident.gallery/eurosporthd/2011/EUROSPORTHD-2011-PROMO-1-C.jpg
 URL=
 #
 type=video
 name=EUROSPORT (GER)
-thumb=http://www.telezones.com/wp-content/uploads/2015/03/Eurosport-HD-Live-Telezones1.png
+thumb=http://theident.gallery/eurosporthd/2011/EUROSPORTHD-2011-PROMO-1-C.jpg
 URL=
 #
 type=video
 name=RACELINE TV
-thumb=http://static.filmon.com/assets/channels/3641/big_logo.png
+thumb=https://static.filmon.com/assets/channels/3641/big_logo.png
 URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fraceline-tv%26title%3dRaceline%2bTV%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fraceline-tv%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dRaceline%2bTV%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F3641%252Fbig_logo.png&amp;mode=1
 #
 type=video
@@ -66,11 +66,11 @@ URL=plugin://plugin.video.SportsDevil/?item=catcher%3dstreams%26url.tmp%3dhttp%2
 #
 type=video
 name=STEEL DREAMS
-thumb=http://static.filmon.com/assets/channels/784/big_logo.png
+thumb=https://static.filmon.com/assets/channels/784/big_logo.png
 URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fsteel-dreams%26title%3dSteel%2bDreams%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fsteel-dreams%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dSteel%2bDreams%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F784%252Fbig_logo.png&amp;mode=1
 #
 type=video
 name=DISTANT ROADS
-thumb=http://static.filmon.com/assets/channels/787/big_logo.png
+thumb=https://static.filmon.com/assets/channels/784/big_logo.png
 URL=plugin://plugin.video.SportsDevil/?item=definedIn%3dfilmon.com.cfg%26url.tmp%3d%252Fchannel%252Fdistant-roads%26title%3dDistant%2bRoads%26url%3dhttp%253A%252F%252Fwww.filmon.com%252Fchannel%252Fdistant-roads%26cfg%3dfilmon.com.cfg%2540Streams%26videoTitle%3dDistant%2bRoads%26director%3dfilmon.com%26genre%3dLive%2bTV%26type%3drss%26icon%3dhttp%253A%252F%252Fstatic.filmon.com%252Fassets%252Fchannels%252F787%252Fbig_logo.png&amp;mode=1
 #
