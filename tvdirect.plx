@@ -2,7 +2,6 @@ version=1
 background=http://s16.postimg.org/aye5d78lx/TRC4.jpg
 logo=http://s16.postimg.org/aye5d78lx/TRC4.jpg
 title=[COLOR blue]All in One IPTV TRC4[/COLOR] [COLOR red]TRC4[/COLOR]
-
 #
 type=playlist
 thumb=http://img.freeflagicons.com/thumb/heart_icon/albania/albania_640.png
@@ -28,9 +27,7 @@ type=playlist
 thumb=http://jaquikarr.com/members/wp-content/uploads/2015/07/Flag-Canadian.jpg
 name=[COLOR yellow][B]CANADA[/B][/COLOR]
 URL=https://raw.githubusercontent.com/TRC4/dl/master/canada.plx
-
 #https://raw.githubusercontent.com/TRC4/TV/master/canada.plx
-
 #
 type=playlist
 thumb=http://www.pieniadz.pl/archiwum/geografia/flagi_godla_itp/francja_flaga_1.jpg
