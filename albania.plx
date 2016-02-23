@@ -7,11 +7,12 @@ type=video
 name=Super Sonic
 thumb=https://3.bp.blogspot.com/-ofy2D8pWdV4/Vfij6ZawXWI/AAAAAAAAAVU/iNvH_uhlpbo/s1600/supersonic_tv_al.png
 URL=http://str103.setplex.net/228/stv_online/playlist.m3u8
-
-
-
-
-
+#
+type=video
+name=STV Folk
+thumb=https://3.bp.blogspot.com/-6UrB6gPKcbw/VfiihqIEbdI/AAAAAAAAAVI/qYjiI5ZT1Aw/s640/stvfolk.jpg
+URL=http://str103.setplex.net:1935/228/stv_folk/playlist.m3u8
+#
 type=video
 name=A1 Report
 thumb=https://2.bp.blogspot.com/-ftUdzEqceKM/VfiJAkDfC7I/AAAAAAAAATo/85uryuqbp1o/s1600/mzl.vprgdjyd.png
