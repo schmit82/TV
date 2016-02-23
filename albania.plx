@@ -14,6 +14,11 @@ thumb=https://3.bp.blogspot.com/-6UrB6gPKcbw/VfiihqIEbdI/AAAAAAAAAVI/qYjiI5ZT1Aw
 URL=http://str103.setplex.net:1935/228/stv_folk/playlist.m3u8
 #
 type=video
+name=Alb Hits
+thumb=http://onlinetv.ucoz.ro/_ld/0/82.jpg
+URL=http://str105mb.setplex.net:1935/str2iosmd5/alb_hits/chunklist_w1766613434.m3u8
+#
+type=video
 name=TV Opoja
 thumb=http://freeiptv.weightlosstoday.org/wp-content/uploads/2015/07/tv-opoja.png
 URL=http://ip.opoja.tv/live//tvopoja/playlist.m3u8
