@@ -30,5 +30,5 @@ URL=http://wowza.rtkit.com:1935/live/livestream/playlist.m3u8
 #
 type=video
 name=TVSH
-thumb=http://vignette2.wikia.nocookie.net/logopedia/images/4/4d/TVSHA.jpg/revision/latest?cb=20160129140956
+thumb=http://vignette2.wikia.nocookie.net/logopedia/images/4/4d/TVSHA.jpg
 URL=http://iphone-streaming.ustream.tv/uhls/18947414/streams/live/iphone/playlist.m3u8
