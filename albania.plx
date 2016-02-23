@@ -38,3 +38,8 @@ name=Vizion Plus
 thumb=http://vizionplus.al/wp-content/themes/vizion-plus/img/main_logo.jpg
 URL=http://slive.vizionplus.tv:1935/live/livestream2/playlist.m3u8
 #
+type=video
+name=Alsat M
+thumb=https://i.ytimg.com/vi/QUh5qs3pglk/maxresdefault.jpg
+URL=http://fms.zulu.mk:554/zulu/alsat_2/playlist.m3u8
+#
