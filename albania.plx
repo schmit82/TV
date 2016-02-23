@@ -53,3 +53,8 @@ name=ERA TV
 thumb=http://www.predavatel.com/mk/1/skopje_images/sko_tvera.gif
 URL=http://fms.zulu.mk:554/zulu/era_2/playlist.m3u8
 #
+type=video
+name=Mpt 2
+thumb=https://upload.wikimedia.org/wikipedia/en/b/ba/MRT_2_new_logo.png
+URL=http://stream.mrt-edge.spectar.tv:1935/mrt-liveedge/_definst_/amlst:dm/hls/video_id/3548/token/bd0b11a4f8d05cc0bffe589f55909615/chunklist_w787058205_b1196000.m3u8
+#
