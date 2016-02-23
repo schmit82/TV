@@ -36,15 +36,7 @@ type=playlist
 thumb=http://www.pieniadz.pl/archiwum/geografia/flagi_godla_itp/francja_flaga_1.jpg
 name=[COLOR yellow][B]FRANCE[/B][/COLOR]
 URL=https://raw.githubusercontent.com/TRC4/dl/master/france.plx
-
 #https://raw.githubusercontent.com/TRC4/TV/master/france.plx
-#
-type=playlist
-thumb=http://onedayinitaly.com/wp-content/uploads/2014/05/italian-flag.jpg
-name=[COLOR yellow][B]ITALY[/B][/COLOR]
-URL=https://raw.githubusercontent.com/TRC4/dl/master/italy.plx
-
-#https://raw.githubusercontent.com/TRC4/TV/master/italy.plx
 #
 type=playlist
 thumb=http://s7.leapfrog.com/is/image/LeapFrog/paw-patrol-to-the-lookout-video-app_59795-96914_1?$prod-lg$&$label=Learning%20Video
