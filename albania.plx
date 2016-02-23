@@ -59,6 +59,11 @@ thumb=http://84.22.48.253:8080/tribuna/logo.jpg
 URL=http://84.22.48.253:89/tribuna/mono.m3u8
 #
 type=video
+name=Kutia TV
+thumb=http://7ve24.net/content/thumbs/b28885a713e0282c1f74d252d55b2c57.
+URL=http://84.22.48.253:89/kutia/mono.m3u8
+#
+type=video
 name=KTV
 thumb=http://www.frocus.net/images/logotv/original/KTV-Kohavision.jpg
 URL=http://84.22.33.25/mpeg2_ktvsd/mono.m3u8
