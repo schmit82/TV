@@ -43,3 +43,8 @@ name=Alsat M
 thumb=https://i.ytimg.com/vi/QUh5qs3pglk/maxresdefault.jpg
 URL=http://fms.zulu.mk:554/zulu/alsat_2/playlist.m3u8
 #
+type=video
+name=KTV
+thumb=http://www.frocus.net/images/logotv/original/KTV-Kohavision.jpg
+URL=http://84.22.33.25/mpeg2_ktvsd/mono.m3u8
+#
