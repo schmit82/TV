@@ -44,6 +44,11 @@ thumb=http://oklivetv.com/wp-content/uploads/2015/10/back.png
 URL=rtmp://62.141.45.234/live/shqiptv5/livestream
 #
 type=video
+name=RTV Dukagjini
+thumb=https://lh4.googleusercontent.com/-CzyCXtOaFTo/UrGpe-_HGnI/AAAAAAAABBQ/AzOyUjoZB5M/tv-dukagjini.png
+URL=rtmp://62.141.45.234/live/shqiptv5/livestream
+#
+type=video
 name=TV Apollon
 thumb=http://www.albotv.net/tv/img/tv_apollon.png
 URL=http://95.107.200.140:554/live/rtmp.stream/playlist.m3u8
