@@ -30,7 +30,7 @@ URL=http://ip.shqiptv.us/live/plustv/index.m3u8
 #
 type=video
 name=Zjarr TV
-thumb=http://zjarr.tv/wp-content/uploads/2015/06/zzzz3.jpg
+thumb=http://zjarr.tv/wp-content/uploads/2015/10/logo2.png
 URL=http://81.7.13.162/hls/zjarrtv/index.m3u8
 #
 type=video
