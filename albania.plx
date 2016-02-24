@@ -4,6 +4,11 @@ logo=http://img.freeflagicons.com/thumb/heart_icon/albania/albania_640.png
 title=[COLOR red]ALBANIA[/COLOR]
 #
 type=video
+name=A1 Shqiptare
+thumb=http://alpha-one.net/style/responsive-logo.png
+URL=http://distribucija.dyndns.tv:1935/live/alb/playlist.m3u8
+#
+type=video
 name=Super Sonic
 thumb=https://3.bp.blogspot.com/-ofy2D8pWdV4/Vfij6ZawXWI/AAAAAAAAAVU/iNvH_uhlpbo/s1600/supersonic_tv_al.png
 URL=http://str103.setplex.net/228/stv_online/playlist.m3u8
