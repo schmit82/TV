@@ -154,6 +154,16 @@ thumb=https://2.bp.blogspot.com/-6Woom1NDLQc/UOGDQLyqqII/AAAAAAAACsA/DB5kVDvsTJE
 URL=http://84.22.48.253:8080/artanews/test.m3u8
 #
 type=video
+name=Film Nje
+thumb=http://tvshqiptare.net/images/channels/film_nj%C3%AB_hd_29.jpg
+URL=http://cp.dmbshare.net:8000/live/Mark/Mark/1778.ts
+#
+type=video
+name=Film Thriler
+thumb=http://www.ipko.com/epg/logo/thriller.png
+URL=http://cp.dmbshare.net:8000/live/Mark/Mark/3522.ts
+#
+type=video
 name=Film Komedi
 thumb=http://www.ejashiko.ch/wp-content/uploads/2014/06/filmkomedi-550x400_c.png
 URL=http://cp.dmbshare.net:8000/live/Mark/Mark/3525.ts
@@ -167,6 +177,11 @@ type=video
 name=Tring Max
 thumb=http://www.top-al.com/img/tv/tring-max.jpg
 URL=http://185.59.222.184//tringmax/playlist.m3u8
+#
+type=video
+name=Bang Bang
+thumb=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwzyFk9HqYsg7e3JrXpDKE1buwSF4CNFAog5NGubxwmj8BefMj
+URL=http://cp.dmbshare.net:8000/live/Anders/Anders/3512.ts
 #
 type=video
 name=Junior TV
