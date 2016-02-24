@@ -159,6 +159,11 @@ thumb=http://www.ejashiko.ch/wp-content/uploads/2014/06/filmkomedi-550x400_c.png
 URL=http://cp.dmbshare.net:8000/live/Mark/Mark/3525.ts
 #
 type=video
+name=Tring Comedy
+thumb=https://lh4.googleusercontent.com/-29EKzwyf4Bc/UmA9h_boWMI/AAAAAAAAAuk/ffpTo5SyJRs/w643-h361-no/tring-comedy.png
+URL=http://185.59.222.184//tringcomedy/playlist.m3u8
+#
+type=video
 name=Tring Max
 thumb=http://www.top-al.com/img/tv/tring-max.jpg
 URL=http://185.59.222.184//tringmax/playlist.m3u8
