@@ -9,6 +9,11 @@ thumb=http://alpha-one.net/style/responsive-logo.png
 URL=http://distribucija.dyndns.tv:1935/live/alb/playlist.m3u8
 #
 type=video
+name=TEST
+thumb=http://alpha-one.net/style/responsive-logo.png
+URL=http://tv.dance.al/danjel/test.m3u
+#
+type=video
 name=Super Sonic
 thumb=https://3.bp.blogspot.com/-ofy2D8pWdV4/Vfij6ZawXWI/AAAAAAAAAVU/iNvH_uhlpbo/s1600/supersonic_tv_al.png
 URL=http://str103.setplex.net/228/stv_online/playlist.m3u8
@@ -159,7 +164,7 @@ thumb=http://www.ejashiko.ch/wp-content/uploads/2014/06/filmkomedi-550x400_c.png
 URL=http://cp.dmbshare.net:8000/live/Mark/Mark/3525.ts
 #
 type=video
-name=Tring MAX
+name=Tring Max
 thumb=http://www.top-al.com/img/tv/tring-max.jpg
 URL=http://185.59.222.184//tringmax/playlist.m3u8
 #
