@@ -194,7 +194,7 @@ thumb=https://1.bp.blogspot.com/-wOBqKdS-yIw/U0wURZNovZI/AAAAAAAAD-c/jPi-QG1wURo
 URL=http://cp.dmbshare.net:8000/live/Anders/Anders/3514.ts
 #
 type=video
-name=Lexo TV (Fetar)
+name=Lexo TV
 thumb=https://pbs.twimg.com/profile_images/1256174847/logo_for_lexo.jpg
 URL=http://iphone-streaming.ustream.tv/ustreamVideo/22031192/streams/live/playlist.m3u8
 #
