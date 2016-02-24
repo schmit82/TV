@@ -74,6 +74,11 @@ thumb=http://static-cdn2.ustream.tv/i/channel/picture/1/9/9/3/19932489/19932489,
 URL=http://xstarplustvshkoderx.api.channel.livestream.com/3.0/playlist.m3u8
 #
 type=video
+name=Alpo
+thumb=https://telnis.files.wordpress.com/2014/10/alpo-tv_5-tetor-2014.jpg
+URL=http://ip.shqiptv.us/live/alpo/index.m3u8
+#
+type=video
 name=A1 Report
 thumb=https://2.bp.blogspot.com/-ftUdzEqceKM/VfiJAkDfC7I/AAAAAAAAATo/85uryuqbp1o/s1600/mzl.vprgdjyd.png
 URL=http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
