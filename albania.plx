@@ -75,7 +75,7 @@ URL=http://xstarplustvshkoderx.api.channel.livestream.com/3.0/playlist.m3u8
 #
 type=video
 name=Alpo
-thumb=https://telnis.files.wordpress.com/2014/10/alpo-tv_5-tetor-2014.jpg
+thumb=https://telnis.files.wordpress.com/2014/10/alpo-tv_5-tetor-2014.jpg?w=350&h=200&crop=1
 URL=http://ip.shqiptv.us/live/alpo/index.m3u8
 #
 type=video
@@ -87,6 +87,11 @@ type=video
 name=News 24
 thumb=http://www.freeetv.com/images/01_logo/news_24_live.jpg
 URL=http://81.7.11.117/hls/news24/index.m3u8
+#
+type=video
+name=News TV
+thumb=http://www.playsbus.com/wp-content/uploads/2015/09/news-one-tv-channel-pakistan-logo.jpg
+URL=http://84.22.44.225:1935/live/newstv.stream/playstream.m3u8
 #
 type=video
 name=Klan
