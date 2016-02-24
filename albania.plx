@@ -24,6 +24,11 @@ thumb=http://freeiptv.weightlosstoday.org/wp-content/uploads/2015/07/tv-opoja.pn
 URL=http://ip.opoja.tv/live//tvopoja/playlist.m3u8
 #
 type=video
+name=TV Rrokum TV
+thumb=http://www.imalbania.com/video/wp-content/uploads/2014/03/rrokum-tv-640x360.jpg
+URL=http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
+#
+type=video
 name=Televizioni TVR
 thumb=http://live-tv.me/wp-content/uploads/2014/08/Televizioni-TVR.gif
 URL=rtmp://62.141.45.234/live/shqiptv6//livestream
