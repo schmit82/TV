@@ -159,6 +159,11 @@ thumb=http://www.ejashiko.ch/wp-content/uploads/2014/06/filmkomedi-550x400_c.png
 URL=http://cp.dmbshare.net:8000/live/Mark/Mark/3525.ts
 #
 type=video
+name=Tring MAX
+thumb=http://www.top-al.com/img/tv/tring-max.jpg
+URL=http://185.59.222.184//tringmax/playlist.m3u8
+#
+type=video
 name=Junior TV
 thumb=https://1.bp.blogspot.com/-wOBqKdS-yIw/U0wURZNovZI/AAAAAAAAD-c/jPi-QG1wURo/s1600/junior.png
 URL=http://cp.dmbshare.net:8000/live/Anders/Anders/3514.ts
