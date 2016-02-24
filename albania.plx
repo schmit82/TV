@@ -29,6 +29,11 @@ thumb=http://satsis.info/uploads/posts/2015-09/1441459596_www.satsis.info__tv-pu
 URL=http://ip.shqiptv.us/live/plustv/index.m3u8
 #
 type=video
+name=Zjarr TV
+thumb=http://zjarr.tv/wp-content/uploads/2015/06/zzzz3.jpg
+URL=http://81.7.13.162/hls/zjarrtv/index.m3u8
+#
+type=video
 name=TV Opoja
 thumb=http://freeiptv.weightlosstoday.org/wp-content/uploads/2015/07/tv-opoja.png
 URL=http://ip.opoja.tv/live//tvopoja/playlist.m3u8
