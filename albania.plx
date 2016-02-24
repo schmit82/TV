@@ -119,6 +119,11 @@ thumb=https://2.bp.blogspot.com/-6Woom1NDLQc/UOGDQLyqqII/AAAAAAAACsA/DB5kVDvsTJE
 URL=http://84.22.48.253:8080/artanews/test.m3u8
 #
 type=video
+name=Film Komedi
+thumb=http://www.ejashiko.ch/wp-content/uploads/2014/06/filmkomedi-550x400_c.png
+URL=http://cp.dmbshare.net:8000/live/Mark/Mark/3525.ts
+#
+type=video
 name=Junior TV
 thumb=https://1.bp.blogspot.com/-wOBqKdS-yIw/U0wURZNovZI/AAAAAAAAD-c/jPi-QG1wURo/s1600/junior.png
 URL=http://cp.dmbshare.net:8000/live/Anders/Anders/3514.ts
