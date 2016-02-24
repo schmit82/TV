@@ -39,13 +39,13 @@ thumb=http://www.share-world.nl/wp-content/uploads/2015/06/DSL_000002-300x168.pn
 URL=http://xdiasporalivex.api.channel.livestream.com/3.0/playlist.m3u8
 #
 type=video
-name=TV Tetova
-thumb=http://oklivetv.com/wp-content/uploads/2015/10/back.png
-URL=rtmp://62.141.45.234/live/shqiptv5/livestream
-#
-type=video
 name=RTV Dukagjini
 thumb=https://lh4.googleusercontent.com/-CzyCXtOaFTo/UrGpe-_HGnI/AAAAAAAABBQ/AzOyUjoZB5M/tv-dukagjini.png
+URL=http://84.22.48.253:8080/dukagjini/test.m3u8
+#
+type=video
+name=TV Tetova
+thumb=http://oklivetv.com/wp-content/uploads/2015/10/back.png
 URL=rtmp://62.141.45.234/live/shqiptv5/livestream
 #
 type=video
