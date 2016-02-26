@@ -5,67 +5,67 @@ title=[COLOR red]ALBANIA[/COLOR]
 #
 type=video
 name=A1 Shqiptare
-thumb=http://tv.dance.al/tvlogo/medha/a1hd.png
+thumb=http://tv.dance.al/tvlogo/medha/A1-HD.png
 URL=http://distribucija.dyndns.tv:1935/live/alb/playlist.m3u8
 #
 type=video
 name=3+ HD
-thumb=http://tv.dance.al/tvlogo/medha/3plus_HD.png
+thumb=http://tv.dance.al/tvlogo/medha/3+HD.png
 URL=rtmp://62.141.45.234:1935/live/shqiptv7/livestream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://iptvlivestream.com/rtmp/3-hd-al/
 #
 type=video
 name=Super Sonic
-thumb=http://tv.dance.al/tvlogo/medha/supersonic.png
+thumb=http://tv.dance.al/tvlogo/medha/Supersonic.png
 URL=http://str103.setplex.net/228/stv_online/playlist.m3u8
 #
 type=video
 name=STV Folk
-thumb=http://tv.dance.al/tvlogo/stvfolk.png
+thumb=http://tv.dance.al/tvlogo/medha/STV-Folk.png
 URL=http://str103.setplex.net:1935/228/stv_folk/playlist.m3u8
 #
 type=video
 name=Alb Hits
-thumb=http://onlinetv.ucoz.ro/_ld/0/82.jpg
+thumb=http://tv.dance.al/tvlogo/medha/Alb-Hits.png
 URL=http://str105mb.setplex.net:1935/str2iosmd5/alb_hits/chunklist_w1766613434.m3u8
 #
 type=video
 name=Plus Televzion
-thumb=http://satsis.info/uploads/posts/2015-09/1441459596_www.satsis.info__tv-puls.png
+thumb=http://tv.dance.al/tvlogo/medha/Plus-Televzion.png
 URL=http://ip.shqiptv.us/live/plustv/index.m3u8
 #
 type=video
 name=Zjarr TV
-thumb=http://zjarr.tv/wp-content/uploads/2015/10/logo2.png
+thumb=http://tv.dance.al/tvlogo/medha/Zjarr.png
 URL=http://81.7.13.162/hls/zjarrtv/index.m3u8
 #
 type=video
 name=TV Opoja
-thumb=http://freeiptv.weightlosstoday.org/wp-content/uploads/2015/07/tv-opoja.png
+thumb=http://tv.dance.al/tvlogo/medha/Opoja.png
 URL=http://ip.opoja.tv/live//tvopoja/playlist.m3u8
 #
 type=video
 name=Rrokum TV
-thumb=http://www.imalbania.com/video/wp-content/uploads/2014/03/rrokum-tv-640x360.jpg
+thumb=http://tv.dance.al/tvlogo/medha/Rrokum.png
 URL=http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
 #
 type=video
 name=Televizioni TVR
-thumb=http://live-tv.me/wp-content/uploads/2014/08/Televizioni-TVR.gif
+thumb=http://tv.dance.al/tvlogo/medha/Televizioni-TVR.png
 URL=rtmp://62.141.45.234/live/shqiptv6//livestream
 #
 type=video
 name=Diaspora TV
-thumb=http://www.share-world.nl/wp-content/uploads/2015/06/DSL_000002-300x168.png
+thumb=http://tv.dance.al/tvlogo/medha/Diaspora.png
 URL=http://xdiasporalivex.api.channel.livestream.com/3.0/playlist.m3u8
 #
 type=video
 name=RTV Dukagjini
-thumb=https://lh4.googleusercontent.com/-CzyCXtOaFTo/UrGpe-_HGnI/AAAAAAAABBQ/AzOyUjoZB5M/tv-dukagjini.png
+thumb=http://tv.dance.al/tvlogo/medha/Dukagjini.png
 URL=http://84.22.48.253:8080/dukagjini/test.m3u8
 #
 type=video
 name=TV Tetova
-thumb=http://oklivetv.com/wp-content/uploads/2015/10/back.png
+thumb=http://tv.dance.al/tvlogo/medha/Tetova.png
 URL=rtmp://62.141.45.234/live/shqiptv5/livestream
 #
 type=video
