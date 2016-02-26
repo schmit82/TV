@@ -5,7 +5,7 @@ title=[COLOR red]ALBANIA[/COLOR]
 #
 type=video
 name=A1 Shqiptare
-thumb=http://alpha-one.net/style/responsive-logo.png
+thumb=http://tv.dance.al/tvlogo/medha/a1hd.png
 URL=http://distribucija.dyndns.tv:1935/live/alb/playlist.m3u8
 #
 type=video
@@ -15,7 +15,7 @@ URL=rtmp://62.141.45.234:1935/live/shqiptv7/livestream swfUrl=http://p.jwpcdn.co
 #
 type=video
 name=Super Sonic
-thumb=https://3.bp.blogspot.com/-ofy2D8pWdV4/Vfij6ZawXWI/AAAAAAAAAVU/iNvH_uhlpbo/s1600/supersonic_tv_al.png
+thumb=http://tv.dance.al/tvlogo/medha/supersonic_tv.png
 URL=http://str103.setplex.net/228/stv_online/playlist.m3u8
 #
 type=video
