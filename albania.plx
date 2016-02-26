@@ -105,7 +105,7 @@ URL=http://xstarplustvshkoderx.api.channel.livestream.com/3.0/playlist.m3u8
 #
 type=video
 name=Alpo
-thumb=http://tv.dance.al/tvlogo/Albania/medha/medha/Alpo.png
+thumb=http://tv.dance.al/tvlogo/Albania/medha/Alpo.png
 URL=http://ip.shqiptv.us/live/alpo/index.m3u8
 #
 type=video
