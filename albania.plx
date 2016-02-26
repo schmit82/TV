@@ -14,6 +14,26 @@ thumb=http://tv.dance.al/tvlogo/Albania/medha/A1-Balkan.png
 URL=http://distribucija.dyndns.tv:1935/live/alpha1/playlist.m3u8
 #
 type=video
+name=A1 International
+thumb=http://tv.dance.al/tvlogo/Albania/medha/A1-International.png
+URL=http://distribucija.dyndns.tv:1935/live/a1internacionalitd/playlist.m3u8
+#
+type=video
+name=A1 Espana
+thumb=http://tv.dance.al/tvlogo/Albania/medha/A1-Espana.png
+URL=http://distribucija.dyndns.tv:1935/live/alfaesp2/playlist.m3u8
+#
+type=video
+name=A1 Scandinavia
+thumb=http://tv.dance.al/tvlogo/Albania/medha/A1-Scandinavia.png
+URL=http://distribucija.dyndns.tv:1935/live/a1scandinavia/playlist.m3u8
+#
+type=video
+name=A1 Islam
+thumb=http://tv.dance.al/tvlogo/Albania/medha/A1-Islam.png
+URL=http://distribucija.dyndns.tv:1935/live/a1islam/playlist.m3u8
+#
+type=video
 name=3+ HD
 thumb=http://tv.dance.al/tvlogo/Albania/medha/3+HD.png
 URL=rtmp://62.141.45.234:1935/live/shqiptv7/livestream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://iptvlivestream.com/rtmp/3-hd-al/
