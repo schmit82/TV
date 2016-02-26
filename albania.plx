@@ -54,6 +54,16 @@ thumb=http://tv.dance.al/tvlogo/Albania/medha/Alb-Hits.png
 URL=http://str105mb.setplex.net:1935/str2iosmd5/alb_hits/chunklist_w1766613434.m3u8
 #
 type=video
+name=Alb Music
+thumb=http://tv.dance.al/tvlogo/Albania/medha/AlbUK/Alb-Music.png
+URL=rtmp://albukhd.dyndns.tv:1935/albuk/albmus.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://iptvlivestream.com/rtmp/alb-music/
+#
+type=video
+name=Alb UK Plus
+thumb=http://tv.dance.al/tvlogo/Albania/medha/AlbUK/AlbUK-Plus.png
+URL=rtmp://albukhd.dyndns.tv:1935/albuk/albukplus.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://iptvlivestream.com/rtmp/alb-uk-plus/
+#
+type=video
 name=Plus Televzion
 thumb=http://tv.dance.al/tvlogo/Albania/medha/Plus-Televzion.png
 URL=http://ip.shqiptv.us/live/plustv/index.m3u8
