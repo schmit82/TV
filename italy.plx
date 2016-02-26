@@ -87,7 +87,7 @@ URL=https://srgssruni13ch-lh.akamaihd.net/i/enc13uni_ch@191855/master.m3u8|X-For
 type=video
 name=Canale 5
 thumb=http://tv.dance.al/tvlogo/Italy/Canale5.png
-URL=http://live1.msf.ticdn.it/Content/HLS/Live/Channel(CH01HA)/Stream(04)/index.m3u8
+URL=http://178.33.235.29:8080/live/ovs_T33/k8oY4j6bCf/360.ts
 #
 type=video
 name=La 3
