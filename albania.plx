@@ -164,6 +164,11 @@ thumb=http://tv.dance.al/tvlogo/medha/Era.png
 URL=http://fms.zulu.mk:554/zulu/era_2/playlist.m3u8
 #
 type=video
+name=Besa TV
+thumb=http://tv.dance.al/tvlogo/medha/Besa.png
+URL=rtmp://62.141.45.234:1935/live/shqiptv4/livestream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://iptvlivestream.com/rtmp/besa-tv/
+#
+type=video
 name=Jug TV
 thumb=http://tv.dance.al/tvlogo/medha/Jug.png
 URL=http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
