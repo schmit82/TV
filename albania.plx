@@ -184,6 +184,11 @@ thumb=http://tv.dance.al/tvlogo/Albania/medha/Arta.png
 URL=http://84.22.48.253:8080/artanews/test.m3u8
 #
 type=video
+name=Syri Vision
+thumb=http://tv.dance.al/tvlogo/Albania/medha/Syri-Vision.png
+URL=rtmp://37.26.69.49/live/syri swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://iptvlivestream.com/rtmp/syri-vision/
+#
+type=video
 name=Film Nje
 thumb=http://tv.dance.al/tvlogo/Albania/medha/Digitalb-Tring/Film1-HD.png
 URL=http://cp.dmbshare.net:8000/live/Mark/Mark/1778.ts
