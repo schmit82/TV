@@ -169,6 +169,11 @@ thumb=http://tv.dance.al/tvlogo/Albania/medha/SuperSky-Al.png
 URL=rtmp://flash.supersky.ch/live/supersky/livestream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://iptvlivestream.com/rtmp/super-sky-albania/
 #
 type=video
+name=Tv Globi
+thumb=http://tv.dance.al/tvlogo/Albania/medha/Tv-Globi.png
+URL=rtmp://sharri.streaming.im/live/sharri1/livestream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://iptvlivestream.com/rtmp/tv-globi/
+#
+type=video
 name=Besa TV
 thumb=http://tv.dance.al/tvlogo/Albania/medha/Besa.png
 URL=rtmp://62.141.45.234:1935/live/shqiptv4/livestream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://iptvlivestream.com/rtmp/besa-tv/
