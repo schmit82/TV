@@ -1,6 +1,6 @@
 version=1
 background=http://s16.postimg.org/aye5d78lx/TRC4.jpg
-logo=http://tv.dance.al/tvlogo/medha/Albania-Zemer.png
+logo=http://tv.dance.al/tvlogo/Albania/medha/Albania-Zemer.png
 title=[COLOR red]ALBANIA[/COLOR]
 #
 type=video
