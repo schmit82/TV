@@ -65,151 +65,151 @@ URL=http://84.22.48.253:8080/dukagjini/test.m3u8
 #
 type=video
 name=TV Tetova
-thumb=http://tv.dance.al/tvlogo/medha/Tetova.png
+thumb=http://tv.dance.al/tvlogo/medha/Tetova2.png
 URL=rtmp://62.141.45.234/live/shqiptv5/livestream
 #
 type=video
 name=TV Apollon
-thumb=http://www.albotv.net/tv/img/tv_apollon.png
+thumb=http://tv.dance.al/tvlogo/medha/Apollon.png
 URL=http://95.107.200.140:554/live/rtmp.stream/playlist.m3u8
 #
 type=video
 name=Star Plus
-thumb=http://static-cdn2.ustream.tv/i/channel/picture/1/9/9/3/19932489/19932489,640x360,b:2.jpg
+thumb=http://tv.dance.al/tvlogo/medha/Star-Plus.png
 URL=http://xstarplustvshkoderx.api.channel.livestream.com/3.0/playlist.m3u8
 #
 type=video
 name=Alpo
-thumb=http://tv.dance.al/tvlogo/medha/alpo.jpg
+thumb=http://tv.dance.al/tvlogo/medha/Alpo.png
 URL=http://ip.shqiptv.us/live/alpo/index.m3u8
 #
 type=video
 name=A1 Report
-thumb=https://2.bp.blogspot.com/-ftUdzEqceKM/VfiJAkDfC7I/AAAAAAAAATo/85uryuqbp1o/s1600/mzl.vprgdjyd.png
+thumb=http://tv.dance.al/tvlogo/medha/A1-Report.png
 URL=http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
 #
 type=video
 name=News 24
-thumb=http://www.freeetv.com/images/01_logo/news_24_live.jpg
+thumb=http://tv.dance.al/tvlogo/medha/News-24.png
 URL=http://81.7.11.117/hls/news24/index.m3u8
 #
 type=video
 name=News TV
-thumb=http://www.playsbus.com/wp-content/uploads/2015/09/news-one-tv-channel-pakistan-logo.jpg
+thumb=http://tv.dance.al/tvlogo/medha/News-TV.png
 URL=http://84.22.44.225:1935/live/newstv.stream/playstream.m3u8
 #
 type=video
 name=Ora News
-thumb=http://botafilmave.com/uploads/images/ora-news.jpg
+thumb=http://tv.dance.al/tvlogo/medha/Ora-News.png
 URL=http://109.236.81.91/hls/oranews/index.m3u8
 #
 type=video
 name=Klan
-thumb=http://tv.dance.al/tvlogo/medha/klan.png
+thumb=http://tv.dance.al/tvlogo/medha/Klan.png
 URL=http://188.138.9.157:8081/streamrtmp/tvklan2/playlist.m3u8
 #
 type=video
 name=Klan Kosova
-thumb=http://www.appscrawler.com/application/ThumbnailAction.do?appId=116896
+thumb=http://tv.dance.al/tvlogo/medha/Klan-Kosova.png
 URL=http://84.22.48.253:8080/klanks/test.m3u8
 #
 type=video
 name=Top Channel
-thumb=https://upload.wikimedia.org/wikipedia/commons/9/96/Top_channel_Logo.png
+thumb=http://tv.dance.al/tvlogo/medha/Digitalb-Tring/Top-Channel.png
 URL=http://stream.ssh101.com:1935/live/shqip24tv/albparajsatop222/playlist.m3u8
 #
 type=video
-name=RTK Live
-thumb=http://www.hulkusc.com/wp-content/uploads/2012/12/rtk4-300x173.jpg
+name=RTK
+thumb=http://tv.dance.al/tvlogo/medha/RTK1.png
 URL=http://wowza.rtkit.com:1935/live/livestream/playlist.m3u8
 #
 type=video
 name=TVSH
-thumb=http://vignette2.wikia.nocookie.net/logopedia/images/4/4d/TVSHA.jpg
+thumb=http://tv.dance.al/tvlogo/medha/Tvsh.png
 URL=http://iphone-streaming.ustream.tv/uhls/18947414/streams/live/iphone/playlist.m3u8
 #
 type=video
 name=Abc News
-thumb=http://open.data.al/uploadserise/foto/1310043813-abcnews.jpg
+thumb=http://tv.dance.al/tvlogo/medha/Abc-News.png
 URL=http://xabcalbaniax.api.channel.livestream.com/3.0/playlist.m3u8
 #
 type=video
 name=Vizion Plus
-thumb=http://vizionplus.al/wp-content/themes/vizion-plus/img/main_logo.jpg
+thumb=http://tv.dance.al/tvlogo/medha/Vizion-Plus.png
 URL=http://slive.vizionplus.tv:1935/live/livestream2/playlist.m3u8
 #
 type=video
 name=Alsat M
-thumb=https://i.ytimg.com/vi/QUh5qs3pglk/maxresdefault.jpg
+thumb=http://tv.dance.al/tvlogo/medha/Alsat-M.png
 URL=http://fms.zulu.mk:554/zulu/alsat_2/playlist.m3u8
 #
 type=video
 name=Tribuna
-thumb=http://84.22.48.253:8080/tribuna/logo.jpg
+thumb=http://tv.dance.al/tvlogo/medha/Tribuna.png
 URL=http://84.22.48.253:89/tribuna/mono.m3u8
 #
 type=video
 name=Kutia TV
-thumb=http://7ve24.net/content/thumbs/b28885a713e0282c1f74d252d55b2c57.
+thumb=http://tv.dance.al/tvlogo/medha/Kutia.png
 URL=http://84.22.48.253:89/kutia/mono.m3u8
 #
 type=video
 name=KTV
-thumb=http://www.frocus.net/images/logotv/original/KTV-Kohavision.jpg
+thumb=http://tv.dance.al/tvlogo/medha/KTV-Kohavision.png
 URL=http://84.22.33.25/mpeg2_ktvsd/mono.m3u8
 #
 type=video
 name=ERA TV
-thumb=http://www.predavatel.com/mk/1/skopje_images/sko_tvera.gif
+thumb=http://tv.dance.al/tvlogo/medha/Era.png
 URL=http://fms.zulu.mk:554/zulu/era_2/playlist.m3u8
 #
 type=video
 name=Jug TV
-thumb=http://www.mp3-muzik.com/images/tvlogo/jug.png
+thumb=http://tv.dance.al/tvlogo/medha/Jug.png
 URL=http://84.20.77.50:554/live/rtmp.stream/playlist.m3u8
 #
 type=video
 name=Arta
-thumb=https://2.bp.blogspot.com/-6Woom1NDLQc/UOGDQLyqqII/AAAAAAAACsA/DB5kVDvsTJE/s1600/Arta%2BKoha%2BTV.png
+thumb=http://tv.dance.al/tvlogo/medha/Arta.png
 URL=http://84.22.48.253:8080/artanews/test.m3u8
 #
 type=video
 name=Film Nje
-thumb=http://tvshqiptare.net/images/channels/film_nj%C3%AB_hd_29.jpg
+thumb=http://tv.dance.al/tvlogo/medha/Digitalb-Tring/Film1-HD.png
 URL=http://cp.dmbshare.net:8000/live/Mark/Mark/1778.ts
 #
 type=video
 name=Film Thriler
-thumb=http://www.ipko.com/epg/logo/thriller.png
+thumb=http://tv.dance.al/tvlogo/medha/Digitalb-Tring/Film-Thriller.png
 URL=http://cp.dmbshare.net:8000/live/Mark/Mark/3522.ts
 #
 type=video
 name=Film Komedi
-thumb=http://www.ejashiko.ch/wp-content/uploads/2014/06/filmkomedi-550x400_c.png
+thumb=http://tv.dance.al/tvlogo/medha/Digitalb-Tring/Film-Komedi.png
 URL=http://cp.dmbshare.net:8000/live/Mark/Mark/3525.ts
 #
 type=video
 name=Tring Comedy
-thumb=https://lh4.googleusercontent.com/-29EKzwyf4Bc/UmA9h_boWMI/AAAAAAAAAuk/ffpTo5SyJRs/w643-h361-no/tring-comedy.png
+thumb=http://tv.dance.al/tvlogo/medha/Digitalb-Tring/Tring-Comedy.png
 URL=http://185.59.222.184//tringcomedy/playlist.m3u8
 #
 type=video
 name=Tring Max
-thumb=http://www.top-al.com/img/tv/tring-max.jpg
+thumb=http://tv.dance.al/tvlogo/medha/Digitalb-Tring/Tring-Max.png
 URL=http://185.59.222.184//tringmax/playlist.m3u8
 #
 type=video
 name=Bang Bang
-thumb=https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQwzyFk9HqYsg7e3JrXpDKE1buwSF4CNFAog5NGubxwmj8BefMj
+thumb=http://tv.dance.al/tvlogo/medha/Digitalb-Tring/Bang-Bang.png
 URL=http://cp.dmbshare.net:8000/live/Anders/Anders/3512.ts
 #
 type=video
 name=Junior TV
-thumb=https://1.bp.blogspot.com/-wOBqKdS-yIw/U0wURZNovZI/AAAAAAAAD-c/jPi-QG1wURo/s1600/junior.png
+thumb=http://tv.dance.al/tvlogo/medha/Digitalb-Tring/Junior.png
 URL=http://cp.dmbshare.net:8000/live/Anders/Anders/3514.ts
 #
 type=video
 name=Lexo TV
-thumb=https://pbs.twimg.com/profile_images/1256174847/logo_for_lexo.jpg
+thumb=http://tv.dance.al/tvlogo/medha/Lexo.png
 URL=http://iphone-streaming.ustream.tv/ustreamVideo/22031192/streams/live/playlist.m3u8
 #
