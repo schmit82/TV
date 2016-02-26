@@ -66,7 +66,7 @@ URL=http://b2everyrai-lh.akamaihd.net/i/rainews_1@179616/index_1800_av-b.m3u8
 #
 type=video
 name=Nuvolari
-thumb=http://www.digital-news.it/UserFiles/nuvolari.jpg
+thumb=http://tv.dance.al/tvlogo/Italy/Nuvolari.png
 URL=http://81.92.105.134:5555/pl.m3u8?channel=540&***=LBCJh8usfbaoGnucatRSQgdZxiDJLM&client=freeAllTVUser
 #
 type=video
@@ -95,7 +95,7 @@ thumb=http://tv.dance.al/tvlogo/Italy/La3.png
 URL=http://h3ghdchan101-i.akamaihd.net/hls/live/217153/Virtual_Channel101/master.m3u8
 #
 type=video
-name=LA 7
+name=La 7
 thumb=http://tv.dance.al/tvlogo/Italy/La7.png
 URL=http://la7live-lh.akamaihd.net/i/test_1@143593/index_1_av-b.m3u8|X-Forwarded-For=2.112.0.1
 #
@@ -120,12 +120,12 @@ thumb=http://tv.dance.al/tvlogo/Italy/Sport-Italia.png
 URL=http://spi.hystream.com:1935/spilive/spistream_360/livestream.m3u8
 #
 type=video
-name=EuroNews
+name=Euro News
 thumb=http://tv.dance.al/tvlogo/Italy/Euronews.png
 URL=http://fr-par-iphone-2.cdn.hexaglobe.net/streaming/euronews_ewns/19-live.m3u8
 #
 type=video
-name=Videolina
+name=Video Lina
 thumb=http://tv.dance.al/tvlogo/Italy/Videolina.png
 URL=http://178.33.229.111:1935/live/Videolina/livestream.m3u8
 #
