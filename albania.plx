@@ -10,7 +10,7 @@ URL=http://distribucija.dyndns.tv:1935/live/alb/playlist.m3u8
 #
 type=video
 name=3+ HD
-thumb=https://lh4.googleusercontent.com/-eR3M7pE1uMM/UgpuibBYDAI/AAAAAAAABQo/MfhQN_Rhr7I/3plus+thumb.jpg
+thumb=https://www.google.it/url?sa=i&rct=j&q=&esrc=s&source=images&cd=&cad=rja&uact=8&ved=&url=%2Furl%3Fsa%3Di%26rct%3Dj%26q%3D%26esrc%3Ds%26source%3Dimages%26cd%3D%26cad%3Drja%26uact%3D8%26ved%3D%26url%3Dhttps%253A%252F%252Fmediaportal-swiss-rtv-logos.googlecode.com%252Fsvn%252Ftrunk%252FTV%252FTVL_1-1_Classic_Clear%252F%26bvm%3Dbv.115339255%2Cd.bGs%26psig%3DAFQjCNHj_NGeW5DMqpW23-KpS0FWTTgSEQ%26ust%3D1456531659784739&bvm=bv.115339255,d.bGs&psig=AFQjCNHj_NGeW5DMqpW23-KpS0FWTTgSEQ&ust=1456531659784739
 URL=rtmp://62.141.45.234:1935/live/shqiptv7/livestream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://iptvlivestream.com/rtmp/3-hd-al/
 #
 type=video
