@@ -164,6 +164,11 @@ thumb=http://tv.dance.al/tvlogo/Albania/medha/Era.png
 URL=http://fms.zulu.mk:554/zulu/era_2/playlist.m3u8
 #
 type=video
+name=Super Sky
+thumb=http://tv.dance.al/tvlogo/Albania/medha/SuperSky-Al.png
+URL=rtmp://flash.supersky.ch/live/supersky/livestream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://iptvlivestream.com/rtmp/super-sky-albania/
+#
+type=video
 name=Besa TV
 thumb=http://tv.dance.al/tvlogo/Albania/medha/Besa.png
 URL=rtmp://62.141.45.234:1935/live/shqiptv4/livestream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://iptvlivestream.com/rtmp/besa-tv/
