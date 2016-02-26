@@ -135,6 +135,11 @@ thumb=http://tv.dance.al/tvlogo/Italy/Radio-Capital.png
 URL=http://capital_tv-lh.akamaihd.net/i/CapitalTv_1@183098/master.m3u8
 #
 type=video
+name=Radio Norba TV
+thumb=http://tv.dance.al/tvlogo/Italy/RadioNorba-TV.png
+URL=http://85.17.80.132:1935/radionorbatv/norbatv_source.stream/chunklist.m3u8
+#
+type=video
 name=Radio Italia
 thumb=http://tv.dance.al/tvlogo/Italy/Radio-Italia.png
 URL=http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x576_av-p.m3u8
