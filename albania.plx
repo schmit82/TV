@@ -66,7 +66,7 @@ URL=http://84.22.48.253:8080/dukagjini/test.m3u8
 type=video
 name=TV Tetova
 thumb=http://tv.dance.al/tvlogo/medha/Tetova2.png
-URL=rtmp://62.141.45.234/live/shqiptv5/livestream
+URL=rtmp://62.141.45.234/live/shqiptv5/livestream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://iptvlivestream.com/rtmp/tv-tetova/
 #
 type=video
 name=TV Apollon
