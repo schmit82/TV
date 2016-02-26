@@ -5,32 +5,32 @@ title=[COLOR red]ALBANIA[/COLOR]
 #
 type=video
 name=A1 Shqiptare
-thumb=http://tv.dance.al/tvlogo/Albania/medha/A1-HD.png
+thumb=http://tv.dance.al/tvlogo/Albania/medha/A1-Media/A1-Shqiptare.png
 URL=http://distribucija.dyndns.tv:1935/live/alb/playlist.m3u8
 #
 type=video
 name=A1 Balkan
-thumb=http://tv.dance.al/tvlogo/Albania/medha/A1-Balkan.png
+thumb=http://tv.dance.al/tvlogo/Albania/medha/A1-Media/A1-Balkan.png
 URL=http://distribucija.dyndns.tv:1935/live/alpha1/playlist.m3u8
 #
 type=video
 name=A1 International
-thumb=http://tv.dance.al/tvlogo/Albania/medha/A1-International.png
+thumb=http://tv.dance.al/tvlogo/Albania/medha/A1-Media/A1-International.png
 URL=http://distribucija.dyndns.tv:1935/live/a1internacionalitd/playlist.m3u8
 #
 type=video
 name=A1 Espana
-thumb=http://tv.dance.al/tvlogo/Albania/medha/A1-Espana.png
+thumb=http://tv.dance.al/tvlogo/Albania/medha/A1-Media/A1-Espana.png
 URL=http://distribucija.dyndns.tv:1935/live/alfaesp2/playlist.m3u8
 #
 type=video
 name=A1 Scandinavia
-thumb=http://tv.dance.al/tvlogo/Albania/medha/A1-Scandinavia.png
+thumb=http://tv.dance.al/tvlogo/Albania/medha/A1-Media/A1-Scandinavia.png
 URL=http://distribucija.dyndns.tv:1935/live/a1scandinavia/playlist.m3u8
 #
 type=video
 name=A1 Islam
-thumb=http://tv.dance.al/tvlogo/Albania/medha/A1-Islam.png
+thumb=http://tv.dance.al/tvlogo/Albania/medha/A1-Media/A1-Islam.png
 URL=http://distribucija.dyndns.tv:1935/live/a1islam/playlist.m3u8
 #
 type=video
