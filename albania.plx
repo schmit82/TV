@@ -109,6 +109,11 @@ thumb=http://tv.dance.al/tvlogo/Albania/medha/Alpo.png
 URL=http://ip.shqiptv.us/live/alpo/index.m3u8
 #
 type=video
+name=Rtv21 HD
+thumb=http://tv.dance.al/tvlogo/Albania/medha/Rtv21HD.png
+URL=rtmp://84.22.44.225/live//21web.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://iptvlivestream.com/rtmp/rtv21-hd/
+#
+type=video
 name=A1 Report
 thumb=http://tv.dance.al/tvlogo/Albania/medha/A1-Report.png
 URL=http://66.55.93.204/hls-live/livepkgr/_definst_/report/stream.m3u8
