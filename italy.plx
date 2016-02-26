@@ -107,7 +107,7 @@ URL=http://live02.italiasmart.tv/LT_CH_4plat296w.isml/QualityLevels(1264000)/man
 type=video
 name=Marcopolo
 thumb=http://tv.dance.al/tvlogo/Italy/Marcopolo.png
-URL=http://ltlive01.cloudapp.net/LT_CH_2mkw471qp.isml/QualityLevels(1264000)/manifest(format=m3u8-aapl).m3u8
+URL=https://live02.italiasmart.tv/LT_CH_2mkw471qp.isml/manifest(format=m3u8-aapl).m3u8
 #
 type=video
 name=Tele Ticino
