@@ -9,6 +9,11 @@ thumb=http://alpha-one.net/style/responsive-logo.png
 URL=http://distribucija.dyndns.tv:1935/live/alb/playlist.m3u8
 #
 type=video
+name=3+ HD
+thumb=https://lh4.googleusercontent.com/-eR3M7pE1uMM/UgpuibBYDAI/AAAAAAAABQo/MfhQN_Rhr7I/3plus+thumb.jpg
+URL=rtmp://62.141.45.234:1935/live/shqiptv7/livestream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://iptvlivestream.com/rtmp/3-hd-al/
+#
+type=video
 name=Super Sonic
 thumb=https://3.bp.blogspot.com/-ofy2D8pWdV4/Vfij6ZawXWI/AAAAAAAAAVU/iNvH_uhlpbo/s1600/supersonic_tv_al.png
 URL=http://str103.setplex.net/228/stv_online/playlist.m3u8
