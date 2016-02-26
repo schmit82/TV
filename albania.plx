@@ -9,6 +9,11 @@ thumb=http://tv.dance.al/tvlogo/Albania/medha/A1-HD.png
 URL=http://distribucija.dyndns.tv:1935/live/alb/playlist.m3u8
 #
 type=video
+name=A1 Balkan
+thumb=http://tv.dance.al/tvlogo/Albania/medha/A1-Balkan.png
+URL=http://distribucija.dyndns.tv:1935/live/alpha1/playlist.m3u8
+#
+type=video
 name=3+ HD
 thumb=http://tv.dance.al/tvlogo/Albania/medha/3+HD.png
 URL=rtmp://62.141.45.234:1935/live/shqiptv7/livestream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://iptvlivestream.com/rtmp/3-hd-al/
