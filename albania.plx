@@ -105,7 +105,7 @@ URL=http://109.236.81.91/hls/oranews/index.m3u8
 #
 type=video
 name=Klan
-thumb=http://original.livestream.com/filestore/logos/bddf1cfc-9300-eec6-ba3a-17a2fef14a74-banner.png
+thumb=http://tv.dance.al/tvlogo/medha/Klan.png
 URL=http://188.138.9.157:8081/streamrtmp/tvklan2/playlist.m3u8
 #
 type=video
