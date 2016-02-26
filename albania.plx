@@ -15,7 +15,7 @@ URL=rtmp://62.141.45.234:1935/live/shqiptv7/livestream swfUrl=http://p.jwpcdn.co
 #
 type=video
 name=Super Sonic
-thumb=http://tv.dance.al/tvlogo/medha/supersonic_tv.png
+thumb=http://tv.dance.al/tvlogo/medha/supersonic.png
 URL=http://str103.setplex.net/228/stv_online/playlist.m3u8
 #
 type=video
@@ -80,7 +80,7 @@ URL=http://xstarplustvshkoderx.api.channel.livestream.com/3.0/playlist.m3u8
 #
 type=video
 name=Alpo
-thumb=https://telnis.files.wordpress.com/2014/10/alpo-tv_5-tetor-2014.jpg?w=350&h=200&crop=1
+thumb=http://tv.dance.al/tvlogo/medha/alpo.jpg
 URL=http://ip.shqiptv.us/live/alpo/index.m3u8
 #
 type=video
@@ -105,7 +105,7 @@ URL=http://109.236.81.91/hls/oranews/index.m3u8
 #
 type=video
 name=Klan
-thumb=http://tv.dance.al/tvlogo/medha/Klan.png
+thumb=http://tv.dance.al/tvlogo/medha/klan.png
 URL=http://188.138.9.157:8081/streamrtmp/tvklan2/playlist.m3u8
 #
 type=video
