@@ -131,7 +131,7 @@ URL=http://109.236.81.91/hls/oranews/index.m3u8
 type=video
 name=6+1 Vlora
 thumb=http://tv.dance.al/tvlogo/Albania/medha/6+1-Vlora.png
-URL=rtmp://204.77.214.17/mogulus-stream-edge/6plus1live/rtmp://212-169.livestream.com/affiliateStream/6plus1live/6c69766572657065617465723a72746d703a2f2f3231322d3136392e6c69766573747265616d2e636f6d2f6d6f67756c75732f36706c7573316c6976652f6c69766573747265616d swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://iptvlivestream.com/rtmp/61-vlora/
+URL=http://tv.dance.al/hls/Albania/6+1Vlora.m3u
 #
 type=video
 name=Klan
