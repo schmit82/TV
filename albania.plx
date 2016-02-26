@@ -94,6 +94,11 @@ thumb=http://tv.dance.al/tvlogo/Albania/medha/Tetova2.png
 URL=rtmp://62.141.45.234/live/shqiptv5/livestream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://iptvlivestream.com/rtmp/tv-tetova/
 #
 type=video
+name=Tema TV
+thumb=http://tv.dance.al/tvlogo/Albania/medha/Tema-TV.png
+URL=rtmp://81.7.16.161/hls//temahls swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://iptvlivestream.com/rtmp/tema-tv/
+#
+type=video
 name=TV Apollon
 thumb=http://tv.dance.al/tvlogo/Albania/medha/Apollon.png
 URL=http://95.107.200.140:554/live/rtmp.stream/playlist.m3u8
