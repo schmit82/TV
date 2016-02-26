@@ -20,7 +20,7 @@ URL=http://str103.setplex.net/228/stv_online/playlist.m3u8
 #
 type=video
 name=STV Folk
-thumb=https://3.bp.blogspot.com/-6UrB6gPKcbw/VfiihqIEbdI/AAAAAAAAAVI/qYjiI5ZT1Aw/s640/stvfolk.jpg
+thumb=http://tv.dance.al/tvlogo/stvfolk.png
 URL=http://str103.setplex.net:1935/228/stv_folk/playlist.m3u8
 #
 type=video
