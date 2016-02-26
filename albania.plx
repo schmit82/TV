@@ -51,7 +51,7 @@ URL=http://82.114.65.202:1935/live/rrokumtv/playlist.m3u8
 type=video
 name=Televizioni TVR
 thumb=http://tv.dance.al/tvlogo/medha/Televizioni-TVR.png
-URL=rtmp://62.141.45.234/live/shqiptv6//livestream
+URL=rtmp://62.141.45.234/live/shqiptv6//livestream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://iptvlivestream.com/rtmp/televizioni-tvr/
 #
 type=video
 name=Diaspora TV
