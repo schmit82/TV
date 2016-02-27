@@ -119,6 +119,11 @@ thumb=http://tv.dance.al/tvlogo/Albania/medha/Star-Plus.png
 URL=http://xstarplustvshkoderx.api.channel.livestream.com/3.0/playlist.m3u8
 #
 type=video
+name=Channel 1 Shkoder
+thumb=http://tv.dance.al/tvlogo/Albania/medha/Channel1-Shkoder.png
+URL=http://xtv1channelshkoderx.api.channel.livestream.com/3.0/playlist.m3u8
+#
+type=video
 name=Alpo
 thumb=http://tv.dance.al/tvlogo/Albania/medha/Alpo.png
 URL=http://ip.shqiptv.us/live/alpo/index.m3u8
