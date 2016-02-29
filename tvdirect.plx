@@ -4,6 +4,11 @@ logo=http://s16.postimg.org/aye5d78lx/TRC4.jpg
 title=[COLOR blue]All in One IPTV TRC4[/COLOR] [COLOR red]TRC4[/COLOR]
 #
 type=playlist
+thumb=http://tv.dance.al/tvlogo/Radio/Kasetofon.png
+name=[COLOR red][B]RADIO[/B][/COLOR]
+URL=https://raw.githubusercontent.com/TRC4/Radio/master/Shqip.xml
+#
+type=playlist
 thumb=http://tv.dance.al/tvlogo/Albania/medha/Albania-Zemer.png
 name=[COLOR red][B]ALBANIA[/B][/COLOR]
 URL=https://raw.githubusercontent.com/TRC4/TV/master/albania.plx
