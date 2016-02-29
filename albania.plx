@@ -59,6 +59,11 @@ thumb=http://tv.dance.al/tvlogo/Albania/medha/AlbUK/Alb-Music.png
 URL=rtmp://albukhd.dyndns.tv:1935/albuk/albmus.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://iptvlivestream.com/rtmp/alb-music/
 #
 type=video
+name=Alb UK HD
+thumb=http://tv.dance.al/tvlogo/Albania/medha/AlbUK/AlbUK.png
+URL=rtmp://188.138.17.8:1935/albuk/albuk.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://iptvlivestream.com/rtmp/alb-uk-hd/
+#
+type=video
 name=Alb UK Plus
 thumb=http://tv.dance.al/tvlogo/Albania/medha/AlbUK/AlbUK-Plus.png
 URL=rtmp://albukhd.dyndns.tv:1935/albuk/albukplus.stream swfUrl=http://p.jwpcdn.com/6/12/jwplayer.flash.swf live=1 pageUrl=http://iptvlivestream.com/rtmp/alb-uk-plus/
