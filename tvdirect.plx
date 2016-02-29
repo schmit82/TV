@@ -7,7 +7,9 @@ type=playlist
 thumb=http://tv.dance.al/tvlogo/Radio/Kasetofon.png
 name=[COLOR red][B]RADIO[/B][/COLOR]
 URL=https://raw.githubusercontent.com/TRC4/Radio/master/Shqip.xml
-#
+
+#https://raw.githubusercontent.com/TRC4/Radio/master/Shqip.xml
+
 type=playlist
 thumb=http://tv.dance.al/tvlogo/Albania/medha/Albania-Zemer.png
 name=[COLOR red][B]ALBANIA[/B][/COLOR]
